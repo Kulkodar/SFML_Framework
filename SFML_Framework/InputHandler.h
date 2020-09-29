@@ -2,9 +2,9 @@
 
 #include <unordered_map>
 
-#include <Signal.h>
-
 #include <SFML/Graphics.hpp>
+
+#include "SignalSlot.h"
 
 /**
  * @brief Helper class to handler user input

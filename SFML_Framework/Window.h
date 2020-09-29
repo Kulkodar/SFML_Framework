@@ -3,10 +3,10 @@
 #include <string>
 #include <unordered_map>
 
-#include <Signal.h>
-
 #include <SFML/Graphics.hpp>
 #include <SFML_Framework/InputHandler.h>
+
+#include "SignalSlot.h"
 
 /**
  * @brief A simple SFML RenderWindow Wraper to properly handle user input.

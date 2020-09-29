@@ -5,7 +5,7 @@
 #include <string>
 
 #include "../Window.h"
-#include "Signal.h"
+#include "../SignalSlot.h"
 
 /**
  * @brief Template class of a GUIWidget used in the GUI
